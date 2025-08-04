@@ -1,0 +1,2 @@
+# This file ensures the cookies directory is tracked by Git
+# while preventing actual cookie files from being committed

@@ -1,0 +1,2 @@
+# This file ensures the history directory is tracked by Git
+# while preventing actual history files from being committed
